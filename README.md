@@ -76,8 +76,8 @@ The dataset includes transactional and demographic details for bank customers. K
 
 You can download and explore the full Power BI dashboard using the template below:
 
-🔗 [Download Power BI Template](bank%20customer%20segment.pbit)
-
+<a href="https://github.com/deepakn766/-bank-customer-segmentation-powerbi-/blob/main/bank%20customer%20segment.pbit">
+ViewDasboard</a>
 
 
 
