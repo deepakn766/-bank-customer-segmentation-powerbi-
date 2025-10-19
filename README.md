@@ -71,6 +71,12 @@ The dataset includes transactional and demographic details for bank customers. K
 <img width="1344" height="788" alt="Screenshot 2025-10-19 201050" src="https://github.com/user-attachments/assets/331166da-3d9a-447c-9cc3-ec1d0d0ae630" />
 
 
+**Highlights:**
+- Average account balance: **₹105.8K**
+- Gender-wise average balance: Male > Female
+- Age 36–45 group holds highest balances
+- Weekday transaction patterns vary by gender
+
 
 ## 📥 Power BI File
 
@@ -79,14 +85,6 @@ You can download and explore the full Power BI dashboard using the template belo
 <a href="https://github.com/deepakn766/-bank-customer-segmentation-powerbi-/blob/main/bank%20customer%20segment.pbit">
 ViewDasboard</a>
 
-
-
-
-**Highlights:**
-- Average account balance: **₹105.8K**
-- Gender-wise average balance: Male > Female
-- Age 36–45 group holds highest balances
-- Weekday transaction patterns vary by gender
 
 ---
 
